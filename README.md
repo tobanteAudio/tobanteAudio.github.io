@@ -1,7 +1,3 @@
-# tobanteAudio
-
-Audio developer from Berlin, Germany.
-
 ## modEQ
 
 EQ audio effects plugin with modulation. Used as a playground to learn the [JUCE](https://github.com/WeAreRoli/JUCE) framework and modern C++.
