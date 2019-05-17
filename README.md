@@ -1,3 +1,7 @@
+IT student from Berlin, Germany.
+
+- **Email**: [tobanteAudio@gmail.com](mailto:tobanteAudio@gmail.com)
+
 ## modEQ
 
 EQ audio effects plugin with modulation. Supports **macOS**, **Windows** & **Linux** with **VST**, **AudioUnits** & **Standalone** builds.
