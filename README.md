@@ -1,10 +1,12 @@
 ## modEQ
 
-EQ audio effects plugin with modulation. Used as a playground to learn the [JUCE](https://github.com/WeAreRoli/JUCE) framework and modern C++.
+EQ audio effects plugin with modulation. Supports **macOS**, **Windows** & **Linux** with **VST**, **AudioUnits** & **Standalone** builds.
+
+Used as a playground to learn the [JUCE](https://github.com/WeAreRoli/JUCE) framework and modern C++.
+
+[**Releases**](https://github.com/tobanteAudio/modEQ/releases)
 
 [**Github Repository**](https://github.com/tobanteaudio/modEQ/)
-
-[**Github Releases**](https://github.com/tobanteAudio/modEQ/releases)
 
 [**Developer Documentation**](https://tobanteaudio.github.io/modEQ/)
 
@@ -18,9 +20,9 @@ EQ audio effects plugin with modulation. Used as a playground to learn the [JUCE
 
 The tobanteAudio embedded template library is intended for micro controller where the `STL` is not available. Designed to have a similar API. This library supports `AVR/Arduino` micro controllers.
 
-[**Github Repository**](https://github.com/tobanteaudio/taetl/)
+[**Releases**](https://github.com/tobanteAudio/taetl/releases)
 
-[**Github Releases**](https://github.com/tobanteAudio/taetl/releases)
+[**Github Repository**](https://github.com/tobanteaudio/taetl/)
 
 [**Developer Documentation**](https://tobanteaudio.github.io/taetl/)
 
