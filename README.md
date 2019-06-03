@@ -20,6 +20,20 @@ Used as a playground to learn the [JUCE](https://github.com/WeAreRoli/JUCE) fram
 | :----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
 | [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | [![Build Status](https://travis-ci.org/tobanteAudio/modEQ.svg?branch=master)](https://travis-ci.org/tobanteAudio/modEQ) | [![AppVeyor Build status](https://img.shields.io/appveyor/ci/tobanteAudio/modEQ.svg)](https://ci.appveyor.com/project/tobanteAudio/modEQ) |
 
+## Python JUCE
+
+Python bindings for manipulating Projucer `.jucer` files. Great for CI automation. Only vanilla python is used. No dependencies!
+
+[**Github Repository**](https://github.com/tobanteaudio/python-juce)
+
+[**Developer Documentation**](https://python-juce.readthedocs.io/en/latest)
+
+### Status
+
+|                                                   LICENSE                                                   |                                                             Linux                                                             |                                                                        Windows                                                                        |                            Documentation                             |                                                                  Coverage                                                                  |
+| :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+| [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![Build Status](https://travis-ci.org/tobanteAudio/modEQ.svg?branch=master)](https://travis-ci.org/tobanteAudio/python-juce) | [![AppVeyor Build status](https://img.shields.io/appveyor/ci/tobanteAudio/python-juce.svg)](https://ci.appveyor.com/project/tobanteAudio/python-juce) | ![Read the Docs](https://img.shields.io/readthedocs/python-juce.svg) | [![codecov](https://codecov.io/gh/tobanteAudio/python-juce/branch/master/graph/badge.svg)](https://codecov.io/gh/tobanteAudio/python-juce) |
+
 ## taetl
 
 The tobanteAudio embedded template library is intended for micro controller where the `STL` is not available. Designed to have a similar API. This library supports `AVR/Arduino` micro controllers.
